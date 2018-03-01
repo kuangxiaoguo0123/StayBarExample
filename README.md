@@ -1,4 +1,4 @@
-# ATStayBar
+# StayBarExample
 Android沉浸式状态栏实现
 ## 一 改变状态栏颜色
 ````
